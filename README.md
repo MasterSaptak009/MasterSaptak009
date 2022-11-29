@@ -1,7 +1,7 @@
-<head><link rel="stylesheet" href="https://postimg.cc/qg26Yb4B"></head>
+<head><link rel="stylesheet" href=""></head>
 
 <!--<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>-->
-<img src="/media/1.png">
+<img src="images/Blog-Banner-9.jpg">
 <h1 align="center">Hi 👋, I'm Saptak</h1>
 <p align="center">
 <a href="">Blog</a> | <a href="https://twitter.com/MasterSaptak">Twitter</a>
@@ -48,32 +48,30 @@
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=advaith-unnikrishnan&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MasterSaptak009&theme=gruvbox"/>
   </a>
 </p>
 </details>
 
-[![Saptak's github activity graph](https://activity-graph.herokuapp.com/graph?username=advaith-unnikrishnan&theme=xcode)](https://github.com/advaith-unnikrishnan)
+[![Saptak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MasterSaptak009&theme=xcode)](https://github.com/MasterSaptak009)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=advaith-unnikrishnan&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=advaith-unnikrishnan&theme=radical">
-</p> -->
+  <img src = "https://github-readme-stats.vercel.app/api?username=MasterSaptak009&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSaptak009&theme=radical">
+</p> 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=advaith-unnikrishnan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MasterSaptak009&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 ## ⚡ Github Activity
 
 <!--START_SECTION:activity-->
 
-<!--
-1. 🎉 Merged PR [#1](https://github.com/advaith-unnikrishnan/Project/pull/1) in [advaith-unnikrishnan/Project](https://github.com/advaith-unnikrishnan/Project)
-2. 💪 Opened PR [#543](https://github.com/education/GitHubGraduation-2022/pull/543) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
--->
+1. 🎉 Merged PR [#1](https://github.com/EbookFoundation/free-programming-books/pull/8790/files) in [Added a DIP course in EbookFoundation](https://github.com/advaith-unnikrishnan/Project)
+2. 💪 Opened PR [#543](https://github.com/education/GitHubGraduation-2022/pull/543) in [Added some programming question](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/5036#issuecomment-1291531202)
 
 <!--END_SECTION:activity-->
-<!--
+<!-- 
 ## 📖 Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
@@ -82,18 +80,17 @@
 - [Polymorphism in Java](https://blog.advaith.co/polymorphism-in-java)
 - [The First Coffee](https://blog.advaith.co/the-first-coffee)
 - [Beginner’s Guide to Cloud Computing](https://blog.advaith.co/beginners-guide-to-cloud-computing-545698131be)
-- [Analysis of Algorithms](https://blog.advaith.co/analysis-of-algorithms)
--->
+- [Analysis of Algorithms](https://blog.advaith.co/analysis-of-algorithms) -->
+
 <!-- BLOG-POST-LIST:END -->
 <!--
-## 📊 Weekly Development Breakdown
+## 📊 Weekly Development Breakdown -->
 
--->
 <!--START_SECTION:waka-->
 <!--
 ```text
 JavaScript   2 hrs 14 mins   █████████████░░░░░░░░░░░░   51.77 %
 Other        1 hr 34 mins    █████████░░░░░░░░░░░░░░░░   36.41 %
-```
--->
+``` -->
+
 <!--END_SECTION:waka-->
