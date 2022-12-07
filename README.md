@@ -53,7 +53,9 @@
 </p>
 </details>
 
-[![Saptak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MasterSaptak009&theme=xcode)](https://github.com/MasterSaptak009)
+
+
+<!--[![Saptak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MasterSaptak009&theme=xcode)](https://github.com/MasterSaptak009)-->
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=MasterSaptak009&show_icons=true&theme=radical&line_height=27">
