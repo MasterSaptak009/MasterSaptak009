@@ -4,7 +4,8 @@
 <img src="images/Blog-Banner-9.jpg">
 <h1 align="center">Hi 👋, I'm Saptak</h1>
 <p align="center">
-<a href="">Blog</a> | <a href="https://twitter.com/MasterSaptak" target="_blank">Twitter</a>
+<a href="">Blog</a> | <a href="https://linktr.ee/MasterSaptak" target="_blank">Linktree</a>
+
 </p>
 
 <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">-->
@@ -37,6 +38,8 @@
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="mailto:burningsoulofdarkness@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+
 </p>
 
 ---
