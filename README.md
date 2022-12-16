@@ -1,8 +1,13 @@
 <head><link rel="stylesheet" href=""></head>
 
-<!--<h3 align="center">Aspiring Full Stack Developer | Community Evangelist | Story Teller</h3>-->
+
 <img src="images/Blog-Banner-9.jpg">
 <h1 align="center">Hi 👋, I'm Saptak</h1>
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MasterSaptak009">
+</a>
+
 <p align="center">
 <a href="">Blog</a> | <a href="https://linktr.ee/MasterSaptak" target="_blank">Linktree</a>
 
@@ -10,7 +15,7 @@
 
 <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">-->
 
-<!--<p>I am an aspiring full stack developer from Mar Baselios College of Engineering and Technology current;y pursuing the third year of Computer Science Engineering. I have experience working with Java, Python, and Machine Learning.</p>-->
+
 
 <p>I am a people person and love being part of communities. <strong></strong>If you like to collaborate on projects, discuss some ideas or products, or want to know more about community building or student programs just reach out to me via mail.  I would be happy to help.</p>
 
@@ -75,20 +80,7 @@
 1. 🎉 Merged PR [#1](https://github.com/EbookFoundation/free-programming-books/pull/8790/files) in [Added a DIP course in EbookFoundation](https://github.com/advaith-unnikrishnan/Project)
 2. 💪 Opened PR [#543](https://github.com/education/GitHubGraduation-2022/pull/543) in [Added some programming question](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/5036#issuecomment-1291531202)
 
-<!--END_SECTION:activity-->
-<!-- 
-## 📖 Latest Blog Posts-->
 
-<!-- BLOG-POST-LIST:START -->
-<!--
-- [How I started technical writing](https://blog.advaith.co/how-i-started-technical-writing)
-- [Polymorphism in Java](https://blog.advaith.co/polymorphism-in-java)
-- [The First Coffee](https://blog.advaith.co/the-first-coffee)
-- [Beginner’s Guide to Cloud Computing](https://blog.advaith.co/beginners-guide-to-cloud-computing-545698131be)
-- [Analysis of Algorithms](https://blog.advaith.co/analysis-of-algorithms) -->
-
-<!-- BLOG-POST-LIST:END -->
-<!--
 ## 📊 Weekly Development Breakdown -->
 
 <!--START_SECTION:waka-->
